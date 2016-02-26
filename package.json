@@ -20,10 +20,9 @@
     "url": "https://github.com/istanbuljs/sample-mocha-compilers/issues"
   },
   "homepage": "https://github.com/istanbuljs/sample-mocha-compilers#readme",
-  "dependencies": {},
   "devDependencies": {
     "babel-register": "^6.4.3",
-    "babel-preset-es2015": "^6.3.13",
+    "babel-plugin-transform-es2015-typeof-symbol": "^6.5.0",
     "istanbul": "^1.0.0-alpha.2",
     "mocha": "^2.3.4"
   }
